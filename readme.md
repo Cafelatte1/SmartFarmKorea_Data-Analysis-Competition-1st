@@ -1,5 +1,5 @@
 ## 🏆 스마트팜코리아 데이터 활용사례 공모전 - 1st Place Solution
-![Python](https://img.shields.io/badge/Python-3.8-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Success-green)
 
 ## Introduction
